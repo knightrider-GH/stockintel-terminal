@@ -38,15 +38,41 @@ StockIntel Terminal is a production-ready, high-density financial intelligence p
 
 ---
 
-## 📸 Screenshots
+## Project Gallery
 
-*(Add your screenshots here for a professional portfolio look)*
+A visual walkthrough of the StockIntel Terminal showcasing the dashboard, watchlist, intelligence engine, alerts system, technical charts, Telegram notifications, and premium investor workflow.
 
-- **Dashboard**: `[Dashboard Screenshot Placeholder]`
-- **Intelligence Center**: `[Intelligence Center Screenshot Placeholder]`
-- **Technical Charts**: `[Chart View Screenshot Placeholder]`
-- **Notifications**: `[Telegram/Email Proof Screenshot Placeholder]`
+### Dashboard Overview
 
+![Dashboard](screenshots/Screenshot%202026-04-26%20230858.png)
+
+### Watchlist Module
+
+![Watchlist](screenshots/Screenshot%202026-04-26%20230905.png)
+
+### Intelligence Center
+
+![Intelligence Center](screenshots/Screenshot%202026-04-26%20230929.png)
+
+### Alerts & Monitoring
+
+![Alerts](screenshots/Screenshot%202026-04-26%20230949.png)
+
+### Technical Chart View
+
+![Technical Charts](screenshots/Screenshot%202026-04-26%20231006.png)
+
+### Telegram Notification Proof
+
+![Telegram Proof](screenshots/Screenshot%202026-04-26%20231030.png)
+
+### Email Notification Proof
+
+![Email Proof](screenshots/Screenshot%202026-04-26%20231105.png)
+
+### Settings & Preferences
+
+![Settings](screenshots/Screenshot%202026-04-26%20231118.png)
 ---
 
 ## 🚀 Installation & Setup
